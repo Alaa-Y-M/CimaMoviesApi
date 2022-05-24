@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xbsWOr3iu95/y2w5gv8iZj797MIWtq8t8Ke07jyn5HQJLoRnl0KOwJtgs2ymSo0Y98hvn9fZ4e161FB+FDuasQ==",
+  "success": true,
+  "projectFilePath": "E:\\2Go\\CimaMoviesApi\\CimaMoviesApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alaa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alaa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Alaa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Alaa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Alaa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Alaa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
