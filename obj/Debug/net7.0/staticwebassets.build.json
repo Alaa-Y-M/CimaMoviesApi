@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mHQEvbVv4RhZb6shprK6dJ4AxmV83B2WltwQ5aYufLs=",
+  "Source": "CimaMoviesApi",
+  "BasePath": "_content/CimaMoviesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
