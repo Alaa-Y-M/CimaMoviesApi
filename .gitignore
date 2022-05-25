@@ -1,2 +1,3 @@
 *.sln
 .VS Code
+*.vscode
